@@ -1,0 +1,1 @@
+export const DATABASE_URL = "https://medium.appzoid03.workers.dev"
